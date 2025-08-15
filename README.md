@@ -1,11 +1,23 @@
-# Esto es un readme
+# Auxiliar 2
 
-## Sirve para hacer una introducción a tu proyecto
+## Introducción a OOP
 
-### Idealmente deberían explicar como instalar y usar su proyecto
-### Nosotros les pediremos que expliquen que decisiones tomaron al programar y porque
+Para hacer el auxiliar clone este repositorio
+con:
+```shell
+git clone https://github.com/dcc-cc3002/auxiliar2_2025_2.git
+```
 
+El repositorio cuenta con dos ramas `master` donde
+esta el esqueleto básico del problema y
+`solution` donde está la pauta
 
+Para ver la pauta:
+```shell
+git checkout solution
+```
 
-
-
+Para volver al esqueleto:
+```shell
+git checkout master
+```
